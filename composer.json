@@ -1,0 +1,13 @@
+{
+    "name": "liujingqi/test",
+    "description": "\u0010\u0010\u0010\u0010test",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Liujingqi\\Test": "src/"
+        }
+    }
+}
