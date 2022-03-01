@@ -1,5 +1,5 @@
 <?php
-namespace Liujingqi/Test;
+namespace Liujingqi\Test;
 
 class Test{
     public static function a(){
