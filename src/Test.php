@@ -6,4 +6,7 @@ class Test{
         echo 'test';
     }
 
+    public static function a2(){
+        echo 'test';
+    }
 }
