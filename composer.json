@@ -3,7 +3,7 @@
     "description": "\u0010\u0010\u0010\u0010test",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "1.0",
+    "minimum-stability": "v1.2",
     "require": {},
     "autoload": {
         "psr-4": {
